@@ -53,6 +53,3 @@ The Sudoku solver uses a **backtracking algorithm**, iterating through cells whi
 - Implement **timer and score tracking**.
 - Enhance UI with **better design and animations**.
 
-# simple-GUI-sudoku
-# simple-GUI-sudoku
-"# simple-GUI-sudoku" 
